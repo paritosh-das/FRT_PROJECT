@@ -22,7 +22,8 @@ Following are some key features of Azure Static Web Apps that made me choose thi
 
 6.Custom domains to provide branded customizations to your app.
 
-# Project demo-link: https://delightful-pond-030872c10.1.azurestaticapps.net
+Project demo-link: 
+https://delightful-pond-030872c10.1.azurestaticapps.net
 
 # Sample images of the project :
 ![1](https://user-images.githubusercontent.com/73129772/173198361-6840d309-1eae-40b1-b6f3-2b535079c8e4.PNG)
